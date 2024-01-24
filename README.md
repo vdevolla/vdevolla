@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @vdevolla
-- 👀 I’m interested in Singing
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me bybemail vdevolla@hawk.iit.edu
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm short and cute
+# Vralakshmi Devolla
 
-<!---
-vdevolla/vdevolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Your Picture](./images/pic.png)
+
+## About Me
+
+Hello! I'm Vralakshmi Devolla, and here's a little glimpse into who I am.
+
+### Where are you from?
+
+I am originally from India.
+
+### What was your first computing device?
+
+My first computing device was a retro PC from 2006.
+
+### IT Interests
+
+I have a keen interest in singing.
+
+### Something Interesting About You
+
+I love to cook. When I was 8, I tried to cook spaghetti, but it didn't turn out well. I gave it to my brother to eat, and he ended up in the hospital. To this day, no one knows that it was because of my spaghetti.
+
